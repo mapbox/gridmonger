@@ -1,0 +1,15 @@
+{
+  "name": "gridMonger",
+  "version": "0.1.0",
+  "description": "UTF8Grid => Mapbox vector tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Ingalls <nick@mapbox.com>",
+  "license": "ISC"
+  "dependencies": {
+    "minimist": "0.0.5",
+    "sphericalmercator": "~1.0.1"
+  }
+}
