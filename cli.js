@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var gridmonger = require('./index');
 
 var argv = require('minimist')(process.argv, {
@@ -19,4 +20,4 @@ var input = require(argv.input);
 
 var geojson = gridmonger(input, zxy);
 
-console.log(geojson);
+console.log(JSON.stringify(geojson));
