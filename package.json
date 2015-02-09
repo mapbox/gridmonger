@@ -7,7 +7,7 @@
     "test": "node test/*.test.js"
   },
   "author": "Nicholas Ingalls <nick@mapbox.com>",
-  "license": "ISC",
+  "license": "https://github.com/mapbox/gridmonger/blob/master/LICENSE.txt",
   "dependencies": {
     "minimist": "0.0.5",
     "sphericalmercator": "~1.0.1",
