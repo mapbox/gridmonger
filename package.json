@@ -1,5 +1,5 @@
 {
-  "name": "gridMonger",
+  "name": "gridmonger",
   "version": "0.1.0",
   "description": "UTF8Grid => Mapbox vector tiles",
   "main": "index.js",
