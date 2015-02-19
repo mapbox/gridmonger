@@ -24,9 +24,7 @@ module.exports = function(input, zxy) {
         gridLine = gridLine.split('');
         gridLine.forEach(function(element, col) {
             var json = toGeoJSON(xy[0] + col, xy[1] + row, zxy[0]);
-            if (element !== " " && objHash[input.keys[element.charCodeAt(0)-32]]) {
-                objHash[input.keys[element.charCodeAt(0)-32]].push(json);
-            }
+            objHash[input.keys[resolveCode(element.charCodeAt(0))]].push(json);
         });
     });
     delete objHash[""];
@@ -64,5 +62,12 @@ function toGeoJSON(x, y, z) {
         }
     };
 }
+
+function resolveCode(key) {
+    if (key >= 93) key--;
+    if (key >= 35) key--;
+    key -= 32;
+    return key;
+};
 
 module.exports.toGeoJSON = toGeoJSON;
