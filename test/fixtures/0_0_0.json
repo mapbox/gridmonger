@@ -21,7 +21,8 @@
             ]
         },
         "properties": {
-            "NAME": "Algeria"
+            "NAME": "Algeria",
+            "id": 2
         }
     }, {
         "type": "Feature",
@@ -38,7 +39,8 @@
             ]
         },
         "properties": {
-            "NAME": "Angola"
+            "NAME": "Angola",
+            "id": 6
         }
     }, {
         "type": "Feature",
@@ -67,7 +69,8 @@
             ]
         },
         "properties": {
-            "NAME": "Argentina"
+            "NAME": "Argentina",
+            "id": 8
         }
     }, {
         "type": "Feature",
@@ -114,7 +117,8 @@
             ]
         },
         "properties": {
-            "NAME": "Australia"
+            "NAME": "Australia",
+            "id": 9
         }
     }, {
         "type": "Feature",
@@ -131,7 +135,8 @@
             ]
         },
         "properties": {
-            "NAME": "Bahamas"
+            "NAME": "Bahamas",
+            "id": 13
         }
     }, {
         "type": "Feature",
@@ -148,7 +153,8 @@
             ]
         },
         "properties": {
-            "NAME": "Bangladesh"
+            "NAME": "Bangladesh",
+            "id": 14
         }
     }, {
         "type": "Feature",
@@ -169,7 +175,8 @@
             ]
         },
         "properties": {
-            "NAME": "Bolivia"
+            "NAME": "Bolivia",
+            "id": 17
         }
     }, {
         "type": "Feature",
@@ -188,7 +195,8 @@
             ]
         },
         "properties": {
-            "NAME": "Burma"
+            "NAME": "Burma",
+            "id": 18
         }
     }, {
         "type": "Feature",
@@ -209,7 +217,8 @@
             ]
         },
         "properties": {
-            "NAME": "Solomon Islands"
+            "NAME": "Solomon Islands",
+            "id": 20
         }
     }, {
         "type": "Feature",
@@ -246,7 +255,8 @@
             ]
         },
         "properties": {
-            "NAME": "Brazil"
+            "NAME": "Brazil",
+            "id": 21
         }
     }, {
         "type": "Feature",
@@ -381,7 +391,8 @@
             ]
         },
         "properties": {
-            "NAME": "Canada"
+            "NAME": "Canada",
+            "id": 24
         }
     }, {
         "type": "Feature",
@@ -398,7 +409,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cambodia"
+            "NAME": "Cambodia",
+            "id": 25
         }
     }, {
         "type": "Feature",
@@ -421,7 +433,8 @@
             ]
         },
         "properties": {
-            "NAME": "Democratic Republic of the Congo"
+            "NAME": "Democratic Republic of the Congo",
+            "id": 28
         }
     }, {
         "type": "Feature",
@@ -468,7 +481,8 @@
             ]
         },
         "properties": {
-            "NAME": "China"
+            "NAME": "China",
+            "id": 30
         }
     }, {
         "type": "Feature",
@@ -510,7 +524,8 @@
             ]
         },
         "properties": {
-            "NAME": "Chile"
+            "NAME": "Chile",
+            "id": 33
         }
     }, {
         "type": "Feature",
@@ -527,7 +542,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cameroon"
+            "NAME": "Cameroon",
+            "id": 35
         }
     }, {
         "type": "Feature",
@@ -548,7 +564,8 @@
             ]
         },
         "properties": {
-            "NAME": "Chad"
+            "NAME": "Chad",
+            "id": 36
         }
     }, {
         "type": "Feature",
@@ -571,7 +588,8 @@
             ]
         },
         "properties": {
-            "NAME": "Colombia"
+            "NAME": "Colombia",
+            "id": 38
         }
     }, {
         "type": "Feature",
@@ -590,7 +608,8 @@
             ]
         },
         "properties": {
-            "NAME": "Central African Republic"
+            "NAME": "Central African Republic",
+            "id": 40
         }
     }, {
         "type": "Feature",
@@ -609,7 +628,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cuba"
+            "NAME": "Cuba",
+            "id": 41
         }
     }, {
         "type": "Feature",
@@ -626,7 +646,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cape Verde"
+            "NAME": "Cape Verde",
+            "id": 42
         }
     }, {
         "type": "Feature",
@@ -643,7 +664,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cook Islands"
+            "NAME": "Cook Islands",
+            "id": 43
         }
     }, {
         "type": "Feature",
@@ -671,7 +693,8 @@
             ]
         },
         "properties": {
-            "NAME": "Ecuador"
+            "NAME": "Ecuador",
+            "id": 49
         }
     }, {
         "type": "Feature",
@@ -692,7 +715,8 @@
             ]
         },
         "properties": {
-            "NAME": "Egypt"
+            "NAME": "Egypt",
+            "id": 50
         }
     }, {
         "type": "Feature",
@@ -709,7 +733,8 @@
             ]
         },
         "properties": {
-            "NAME": "Ireland"
+            "NAME": "Ireland",
+            "id": 51
         }
     }, {
         "type": "Feature",
@@ -726,7 +751,8 @@
             ]
         },
         "properties": {
-            "NAME": "Estonia"
+            "NAME": "Estonia",
+            "id": 53
         }
     }, {
         "type": "Feature",
@@ -743,7 +769,8 @@
             ]
         },
         "properties": {
-            "NAME": "Eritrea"
+            "NAME": "Eritrea",
+            "id": 54
         }
     }, {
         "type": "Feature",
@@ -760,7 +787,8 @@
             ]
         },
         "properties": {
-            "NAME": "Ethiopia"
+            "NAME": "Ethiopia",
+            "id": 56
         }
     }, {
         "type": "Feature",
@@ -781,7 +809,8 @@
             ]
         },
         "properties": {
-            "NAME": "Finland"
+            "NAME": "Finland",
+            "id": 60
         }
     }, {
         "type": "Feature",
@@ -809,7 +838,8 @@
             ]
         },
         "properties": {
-            "NAME": "Fiji"
+            "NAME": "Fiji",
+            "id": 61
         }
     }, {
         "type": "Feature",
@@ -837,7 +867,8 @@
             ]
         },
         "properties": {
-            "NAME": "Micronesia, Federated States of"
+            "NAME": "Micronesia, Federated States of",
+            "id": 63
         }
     }, {
         "type": "Feature",
@@ -878,7 +909,8 @@
             ]
         },
         "properties": {
-            "NAME": "French Polynesia"
+            "NAME": "French Polynesia",
+            "id": 64
         }
     }, {
         "type": "Feature",
@@ -901,7 +933,8 @@
             ]
         },
         "properties": {
-            "NAME": "France"
+            "NAME": "France",
+            "id": 65
         }
     }, {
         "type": "Feature",
@@ -918,7 +951,8 @@
             ]
         },
         "properties": {
-            "NAME": "Gabon"
+            "NAME": "Gabon",
+            "id": 67
         }
     }, {
         "type": "Feature",
@@ -935,7 +969,8 @@
             ]
         },
         "properties": {
-            "NAME": "Ghana"
+            "NAME": "Ghana",
+            "id": 69
         }
     }, {
         "type": "Feature",
@@ -1008,7 +1043,8 @@
             ]
         },
         "properties": {
-            "NAME": "Greenland"
+            "NAME": "Greenland",
+            "id": 71
         }
     }, {
         "type": "Feature",
@@ -1027,7 +1063,8 @@
             ]
         },
         "properties": {
-            "NAME": "Germany"
+            "NAME": "Germany",
+            "id": 72
         }
     }, {
         "type": "Feature",
@@ -1044,7 +1081,8 @@
             ]
         },
         "properties": {
-            "NAME": "Greece"
+            "NAME": "Greece",
+            "id": 74
         }
     }, {
         "type": "Feature",
@@ -1061,7 +1099,8 @@
             ]
         },
         "properties": {
-            "NAME": "Honduras"
+            "NAME": "Honduras",
+            "id": 79
         }
     }, {
         "type": "Feature",
@@ -1082,7 +1121,8 @@
             ]
         },
         "properties": {
-            "NAME": "Iceland"
+            "NAME": "Iceland",
+            "id": 82
         }
     }, {
         "type": "Feature",
@@ -1126,7 +1166,8 @@
             ]
         },
         "properties": {
-            "NAME": "India"
+            "NAME": "India",
+            "id": 83
         }
     }, {
         "type": "Feature",
@@ -1149,7 +1190,8 @@
             ]
         },
         "properties": {
-            "NAME": "Iran (Islamic Republic of)"
+            "NAME": "Iran (Islamic Republic of)",
+            "id": 84
         }
     }, {
         "type": "Feature",
@@ -1179,7 +1221,8 @@
             ]
         },
         "properties": {
-            "NAME": "Italy"
+            "NAME": "Italy",
+            "id": 86
         }
     }, {
         "type": "Feature",
@@ -1196,7 +1239,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cote d'Ivoire"
+            "NAME": "Cote d'Ivoire",
+            "id": 87
         }
     }, {
         "type": "Feature",
@@ -1215,7 +1259,8 @@
             ]
         },
         "properties": {
-            "NAME": "Iraq"
+            "NAME": "Iraq",
+            "id": 88
         }
     }, {
         "type": "Feature",
@@ -1255,7 +1300,8 @@
             ]
         },
         "properties": {
-            "NAME": "Japan"
+            "NAME": "Japan",
+            "id": 89
         }
     }, {
         "type": "Feature",
@@ -1272,7 +1318,8 @@
             ]
         },
         "properties": {
-            "NAME": "Kenya"
+            "NAME": "Kenya",
+            "id": 92
         }
     }, {
         "type": "Feature",
@@ -1291,7 +1338,8 @@
             ]
         },
         "properties": {
-            "NAME": "Korea, Democratic People's Republic of"
+            "NAME": "Korea, Democratic People's Republic of",
+            "id": 94
         }
     }, {
         "type": "Feature",
@@ -1328,7 +1376,8 @@
             ]
         },
         "properties": {
-            "NAME": "Kiribati"
+            "NAME": "Kiribati",
+            "id": 95
         }
     }, {
         "type": "Feature",
@@ -1347,7 +1396,8 @@
             ]
         },
         "properties": {
-            "NAME": "Korea, Republic of"
+            "NAME": "Korea, Republic of",
+            "id": 96
         }
     }, {
         "type": "Feature",
@@ -1384,7 +1434,8 @@
             ]
         },
         "properties": {
-            "NAME": "Kazakhstan"
+            "NAME": "Kazakhstan",
+            "id": 98
         }
     }, {
         "type": "Feature",
@@ -1401,7 +1452,8 @@
             ]
         },
         "properties": {
-            "NAME": "Liberia"
+            "NAME": "Liberia",
+            "id": 104
         }
     }, {
         "type": "Feature",
@@ -1418,7 +1470,8 @@
             ]
         },
         "properties": {
-            "NAME": "Slovakia"
+            "NAME": "Slovakia",
+            "id": 105
         }
     }, {
         "type": "Feature",
@@ -1443,7 +1496,8 @@
             ]
         },
         "properties": {
-            "NAME": "Libyan Arab Jamahiriya"
+            "NAME": "Libyan Arab Jamahiriya",
+            "id": 107
         }
     }, {
         "type": "Feature",
@@ -1462,7 +1516,8 @@
             ]
         },
         "properties": {
-            "NAME": "Madagascar"
+            "NAME": "Madagascar",
+            "id": 108
         }
     }, {
         "type": "Feature",
@@ -1491,7 +1546,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mongolia"
+            "NAME": "Mongolia",
+            "id": 110
         }
     }, {
         "type": "Feature",
@@ -1508,7 +1564,8 @@
             ]
         },
         "properties": {
-            "NAME": "The former Yugoslav Republic of Macedonia"
+            "NAME": "The former Yugoslav Republic of Macedonia",
+            "id": 112
         }
     }, {
         "type": "Feature",
@@ -1527,7 +1584,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mali"
+            "NAME": "Mali",
+            "id": 113
         }
     }, {
         "type": "Feature",
@@ -1546,7 +1604,8 @@
             ]
         },
         "properties": {
-            "NAME": "Morocco"
+            "NAME": "Morocco",
+            "id": 114
         }
     }, {
         "type": "Feature",
@@ -1578,7 +1637,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mauritania"
+            "NAME": "Mauritania",
+            "id": 116
         }
     }, {
         "type": "Feature",
@@ -1595,7 +1655,8 @@
             ]
         },
         "properties": {
-            "NAME": "Oman"
+            "NAME": "Oman",
+            "id": 118
         }
     }, {
         "type": "Feature",
@@ -1614,7 +1675,8 @@
             ]
         },
         "properties": {
-            "NAME": "Maldives"
+            "NAME": "Maldives",
+            "id": 119
         }
     }, {
         "type": "Feature",
@@ -1661,7 +1723,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mexico"
+            "NAME": "Mexico",
+            "id": 120
         }
     }, {
         "type": "Feature",
@@ -1678,7 +1741,8 @@
             ]
         },
         "properties": {
-            "NAME": "Malaysia"
+            "NAME": "Malaysia",
+            "id": 121
         }
     }, {
         "type": "Feature",
@@ -1706,7 +1770,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mozambique"
+            "NAME": "Mozambique",
+            "id": 122
         }
     }, {
         "type": "Feature",
@@ -1723,7 +1788,8 @@
             ]
         },
         "properties": {
-            "NAME": "Malawi"
+            "NAME": "Malawi",
+            "id": 123
         }
     }, {
         "type": "Feature",
@@ -1740,7 +1806,8 @@
             ]
         },
         "properties": {
-            "NAME": "New Caledonia"
+            "NAME": "New Caledonia",
+            "id": 124
         }
     }, {
         "type": "Feature",
@@ -1761,7 +1828,8 @@
             ]
         },
         "properties": {
-            "NAME": "Niger"
+            "NAME": "Niger",
+            "id": 126
         }
     }, {
         "type": "Feature",
@@ -1778,7 +1846,8 @@
             ]
         },
         "properties": {
-            "NAME": "Northern Mariana Islands"
+            "NAME": "Northern Mariana Islands",
+            "id": 131
         }
     }, {
         "type": "Feature",
@@ -1795,7 +1864,8 @@
             ]
         },
         "properties": {
-            "NAME": "Macau"
+            "NAME": "Macau",
+            "id": 137
         }
     }, {
         "type": "Feature",
@@ -1812,7 +1882,8 @@
             ]
         },
         "properties": {
-            "NAME": "Palestine"
+            "NAME": "Palestine",
+            "id": 139
         }
     }, {
         "type": "Feature",
@@ -1829,7 +1900,8 @@
             ]
         },
         "properties": {
-            "NAME": "Mayotte"
+            "NAME": "Mayotte",
+            "id": 141
         }
     }, {
         "type": "Feature",
@@ -1846,7 +1918,8 @@
             ]
         },
         "properties": {
-            "NAME": "Cocos (Keeling) Islands"
+            "NAME": "Cocos (Keeling) Islands",
+            "id": 144
         }
     }, {
         "type": "Feature",
@@ -1874,7 +1947,8 @@
             ]
         },
         "properties": {
-            "NAME": "French Southern and Antarctic Lands"
+            "NAME": "French Southern and Antarctic Lands",
+            "id": 146
         }
     }, {
         "type": "Feature",
@@ -1891,7 +1965,8 @@
             ]
         },
         "properties": {
-            "NAME": "Heard Island and McDonald Islands"
+            "NAME": "Heard Island and McDonald Islands",
+            "id": 147
         }
     }, {
         "type": "Feature",
@@ -1908,7 +1983,8 @@
             ]
         },
         "properties": {
-            "NAME": "Vanuatu"
+            "NAME": "Vanuatu",
+            "id": 151
         }
     }, {
         "type": "Feature",
@@ -1929,7 +2005,8 @@
             ]
         },
         "properties": {
-            "NAME": "Nigeria"
+            "NAME": "Nigeria",
+            "id": 152
         }
     }, {
         "type": "Feature",
@@ -1946,7 +2023,8 @@
             ]
         },
         "properties": {
-            "NAME": "Netherlands"
+            "NAME": "Netherlands",
+            "id": 153
         }
     }, {
         "type": "Feature",
@@ -1991,7 +2069,8 @@
             ]
         },
         "properties": {
-            "NAME": "Norway"
+            "NAME": "Norway",
+            "id": 154
         }
     }, {
         "type": "Feature",
@@ -2008,7 +2087,8 @@
             ]
         },
         "properties": {
-            "NAME": "Nepal"
+            "NAME": "Nepal",
+            "id": 155
         }
     }, {
         "type": "Feature",
@@ -2025,7 +2105,8 @@
             ]
         },
         "properties": {
-            "NAME": "Suriname"
+            "NAME": "Suriname",
+            "id": 157
         }
     }, {
         "type": "Feature",
@@ -2042,7 +2123,8 @@
             ]
         },
         "properties": {
-            "NAME": "Nicaragua"
+            "NAME": "Nicaragua",
+            "id": 158
         }
     }, {
         "type": "Feature",
@@ -2081,7 +2163,8 @@
             ]
         },
         "properties": {
-            "NAME": "New Zealand"
+            "NAME": "New Zealand",
+            "id": 159
         }
     }, {
         "type": "Feature",
@@ -2104,7 +2187,8 @@
             ]
         },
         "properties": {
-            "NAME": "Peru"
+            "NAME": "Peru",
+            "id": 161
         }
     }, {
         "type": "Feature",
@@ -2129,7 +2213,8 @@
             ]
         },
         "properties": {
-            "NAME": "Pakistan"
+            "NAME": "Pakistan",
+            "id": 162
         }
     }, {
         "type": "Feature",
@@ -2148,7 +2233,8 @@
             ]
         },
         "properties": {
-            "NAME": "Poland"
+            "NAME": "Poland",
+            "id": 163
         }
     }, {
         "type": "Feature",
@@ -2165,7 +2251,8 @@
             ]
         },
         "properties": {
-            "NAME": "Panama"
+            "NAME": "Panama",
+            "id": 164
         }
     }, {
         "type": "Feature",
@@ -2186,7 +2273,8 @@
             ]
         },
         "properties": {
-            "NAME": "Papua New Guinea"
+            "NAME": "Papua New Guinea",
+            "id": 166
         }
     }, {
         "type": "Feature",
@@ -2203,7 +2291,8 @@
             ]
         },
         "properties": {
-            "NAME": "Guinea-Bissau"
+            "NAME": "Guinea-Bissau",
+            "id": 167
         }
     }, {
         "type": "Feature",
@@ -2220,7 +2309,8 @@
             ]
         },
         "properties": {
-            "NAME": "Qatar"
+            "NAME": "Qatar",
+            "id": 168
         }
     }, {
         "type": "Feature",
@@ -2241,7 +2331,8 @@
             ]
         },
         "properties": {
-            "NAME": "Philippines"
+            "NAME": "Philippines",
+            "id": 172
         }
     }, {
         "type": "Feature",
@@ -2266,7 +2357,8 @@
             ]
         },
         "properties": {
-            "NAME": "Saudi Arabia"
+            "NAME": "Saudi Arabia",
+            "id": 175
         }
     }, {
         "type": "Feature",
@@ -2283,7 +2375,8 @@
             ]
         },
         "properties": {
-            "NAME": "Seychelles"
+            "NAME": "Seychelles",
+            "id": 177
         }
     }, {
         "type": "Feature",
@@ -2306,7 +2399,8 @@
             ]
         },
         "properties": {
-            "NAME": "South Africa"
+            "NAME": "South Africa",
+            "id": 178
         }
     }, {
         "type": "Feature",
@@ -2323,7 +2417,8 @@
             ]
         },
         "properties": {
-            "NAME": "Lesotho"
+            "NAME": "Lesotho",
+            "id": 179
         }
     }, {
         "type": "Feature",
@@ -2340,7 +2435,8 @@
             ]
         },
         "properties": {
-            "NAME": "Botswana"
+            "NAME": "Botswana",
+            "id": 180
         }
     }, {
         "type": "Feature",
@@ -2357,7 +2453,8 @@
             ]
         },
         "properties": {
-            "NAME": "Senegal"
+            "NAME": "Senegal",
+            "id": 181
         }
     }, {
         "type": "Feature",
@@ -2374,7 +2471,8 @@
             ]
         },
         "properties": {
-            "NAME": "Sierra Leone"
+            "NAME": "Sierra Leone",
+            "id": 183
         }
     }, {
         "type": "Feature",
@@ -2406,7 +2504,8 @@
             ]
         },
         "properties": {
-            "NAME": "Somalia"
+            "NAME": "Somalia",
+            "id": 185
         }
     }, {
         "type": "Feature",
@@ -2427,7 +2526,8 @@
             ]
         },
         "properties": {
-            "NAME": "Spain"
+            "NAME": "Spain",
+            "id": 186
         }
     }, {
         "type": "Feature",
@@ -2454,7 +2554,8 @@
             ]
         },
         "properties": {
-            "NAME": "Sudan"
+            "NAME": "Sudan",
+            "id": 188
         }
     }, {
         "type": "Feature",
@@ -2485,7 +2586,8 @@
             ]
         },
         "properties": {
-            "NAME": "Sweden"
+            "NAME": "Sweden",
+            "id": 189
         }
     }, {
         "type": "Feature",
@@ -2513,7 +2615,8 @@
             ]
         },
         "properties": {
-            "NAME": "Thailand"
+            "NAME": "Thailand",
+            "id": 193
         }
     }, {
         "type": "Feature",
@@ -2530,7 +2633,8 @@
             ]
         },
         "properties": {
-            "NAME": "Tajikistan"
+            "NAME": "Tajikistan",
+            "id": 194
         }
     }, {
         "type": "Feature",
@@ -2547,7 +2651,8 @@
             ]
         },
         "properties": {
-            "NAME": "Sao Tome and Principe"
+            "NAME": "Sao Tome and Principe",
+            "id": 198
         }
     }, {
         "type": "Feature",
@@ -2566,7 +2671,8 @@
             ]
         },
         "properties": {
-            "NAME": "Tunisia"
+            "NAME": "Tunisia",
+            "id": 199
         }
     }, {
         "type": "Feature",
@@ -2591,7 +2697,8 @@
             ]
         },
         "properties": {
-            "NAME": "Turkey"
+            "NAME": "Turkey",
+            "id": 200
         }
     }, {
         "type": "Feature",
@@ -2608,7 +2715,8 @@
             ]
         },
         "properties": {
-            "NAME": "Tuvalu"
+            "NAME": "Tuvalu",
+            "id": 201
         }
     }, {
         "type": "Feature",
@@ -2625,7 +2733,8 @@
             ]
         },
         "properties": {
-            "NAME": "Turkmenistan"
+            "NAME": "Turkmenistan",
+            "id": 202
         }
     }, {
         "type": "Feature",
@@ -2648,7 +2757,8 @@
             ]
         },
         "properties": {
-            "NAME": "United Republic of Tanzania"
+            "NAME": "United Republic of Tanzania",
+            "id": 203
         }
     }, {
         "type": "Feature",
@@ -2669,7 +2779,8 @@
             ]
         },
         "properties": {
-            "NAME": "Uganda"
+            "NAME": "Uganda",
+            "id": 204
         }
     }, {
         "type": "Feature",
@@ -2692,7 +2803,8 @@
             ]
         },
         "properties": {
-            "NAME": "United Kingdom"
+            "NAME": "United Kingdom",
+            "id": 205
         }
     }, {
         "type": "Feature",
@@ -2717,7 +2829,8 @@
             ]
         },
         "properties": {
-            "NAME": "Ukraine"
+            "NAME": "Ukraine",
+            "id": 206
         }
     }, {
         "type": "Feature",
@@ -2850,7 +2963,8 @@
             ]
         },
         "properties": {
-            "NAME": "United States"
+            "NAME": "United States",
+            "id": 207
         }
     }, {
         "type": "Feature",
@@ -2871,7 +2985,8 @@
             ]
         },
         "properties": {
-            "NAME": "Burkina Faso"
+            "NAME": "Burkina Faso",
+            "id": 208
         }
     }, {
         "type": "Feature",
@@ -2888,7 +3003,8 @@
             ]
         },
         "properties": {
-            "NAME": "Uruguay"
+            "NAME": "Uruguay",
+            "id": 209
         }
     }, {
         "type": "Feature",
@@ -2913,7 +3029,8 @@
             ]
         },
         "properties": {
-            "NAME": "Uzbekistan"
+            "NAME": "Uzbekistan",
+            "id": 210
         }
     }, {
         "type": "Feature",
@@ -2936,7 +3053,8 @@
             ]
         },
         "properties": {
-            "NAME": "Venezuela"
+            "NAME": "Venezuela",
+            "id": 212
         }
     }, {
         "type": "Feature",
@@ -2959,7 +3077,8 @@
             ]
         },
         "properties": {
-            "NAME": "Viet Nam"
+            "NAME": "Viet Nam",
+            "id": 214
         }
     }, {
         "type": "Feature",
@@ -2982,7 +3101,8 @@
             ]
         },
         "properties": {
-            "NAME": "Namibia"
+            "NAME": "Namibia",
+            "id": 216
         }
     }, {
         "type": "Feature",
@@ -3001,7 +3121,8 @@
             ]
         },
         "properties": {
-            "NAME": "Yemen"
+            "NAME": "Yemen",
+            "id": 220
         }
     }, {
         "type": "Feature",
@@ -3024,7 +3145,8 @@
             ]
         },
         "properties": {
-            "NAME": "Zambia"
+            "NAME": "Zambia",
+            "id": 221
         }
     }, {
         "type": "Feature",
@@ -3043,7 +3165,8 @@
             ]
         },
         "properties": {
-            "NAME": "Zimbabwe"
+            "NAME": "Zimbabwe",
+            "id": 222
         }
     }, {
         "type": "Feature",
@@ -3093,7 +3216,8 @@
             ]
         },
         "properties": {
-            "NAME": "Indonesia"
+            "NAME": "Indonesia",
+            "id": 223
         }
     }, {
         "type": "Feature",
@@ -3110,7 +3234,8 @@
             ]
         },
         "properties": {
-            "NAME": "Guadeloupe"
+            "NAME": "Guadeloupe",
+            "id": 224
         }
     }, {
         "type": "Feature",
@@ -3127,7 +3252,8 @@
             ]
         },
         "properties": {
-            "NAME": "United Arab Emirates"
+            "NAME": "United Arab Emirates",
+            "id": 226
         }
     }, {
         "type": "Feature",
@@ -3146,7 +3272,8 @@
             ]
         },
         "properties": {
-            "NAME": "Marshall Islands"
+            "NAME": "Marshall Islands",
+            "id": 230
         }
     }, {
         "type": "Feature",
@@ -3163,7 +3290,8 @@
             ]
         },
         "properties": {
-            "NAME": "San Marino"
+            "NAME": "San Marino",
+            "id": 233
         }
     }, {
         "type": "Feature",
@@ -3180,7 +3308,8 @@
             ]
         },
         "properties": {
-            "NAME": "Turks and Caicos Islands"
+            "NAME": "Turks and Caicos Islands",
+            "id": 234
         }
     }, {
         "type": "Feature",
@@ -3208,7 +3337,8 @@
             ]
         },
         "properties": {
-            "NAME": "Western Sahara"
+            "NAME": "Western Sahara",
+            "id": 235
         }
     }, {
         "type": "Feature",
@@ -3227,7 +3357,8 @@
             ]
         },
         "properties": {
-            "NAME": "Serbia"
+            "NAME": "Serbia",
+            "id": 236
         }
     }, {
         "type": "Feature",
@@ -3269,7 +3400,8 @@
             ]
         },
         "properties": {
-            "NAME": "Svalbard"
+            "NAME": "Svalbard",
+            "id": 238
         }
     }, {
         "type": "Feature",
@@ -3288,7 +3420,8 @@
             ]
         },
         "properties": {
-            "NAME": "South Georgia South Sandwich Islands"
+            "NAME": "South Georgia South Sandwich Islands",
+            "id": 243
         }
     }, {
         "type": "Feature",
@@ -3305,7 +3438,8 @@
             ]
         },
         "properties": {
-            "NAME": "Taiwan"
+            "NAME": "Taiwan",
+            "id": 244
         }
     }, {
         "type": "Feature",
@@ -3535,7 +3669,8 @@
             ]
         },
         "properties": {
-            "NAME": "Russia"
+            "NAME": "Russia",
+            "id": 245
         }
     }]
 }

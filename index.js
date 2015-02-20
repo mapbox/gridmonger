@@ -41,6 +41,7 @@ module.exports = function(input, zxy) {
                 features: objHash[key]
             });
             objHash[key].properties = input.data[key];
+            objHash[key].properties.id = parseInt(key);
             output.features.push(objHash[key]);
         }
     });
